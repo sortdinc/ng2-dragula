@@ -1,0 +1,22 @@
+[NX Daemon Server] - 2025-07-28T12:08:30.907Z - Started listening on: /var/folders/nm/2gs_1mvs6k30js5j62dr1y2h0000gn/T/23b0fd9a07be4c71a30c/d.sock
+[NX Daemon Server] - 2025-07-28T12:08:30.908Z - [WATCHER]: Subscribed to changes within: /Users/pieterjoubert/sortd/ng2-dragula (native)
+[NX Daemon Server] - 2025-07-28T12:08:30.917Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-07-28T12:08:30.917Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-07-28T12:08:30.918Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-07-28T12:08:30.918Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-07-28T12:08:30.918Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-07-28T12:08:30.918Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-07-28T12:08:30.919Z - [WATCHER]: Stopping the watcher for /Users/pieterjoubert/sortd/ng2-dragula (sources)
+[NX Daemon Server] - 2025-07-28T12:08:30.919Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-07-28T12:08:30.919Z - [WATCHER]: Stopping the watcher for /Users/pieterjoubert/sortd/ng2-dragula (outputs)
+[NX Daemon Server] - 2025-07-28T12:50:12.447Z - Started listening on: /var/folders/nm/2gs_1mvs6k30js5j62dr1y2h0000gn/T/23b0fd9a07be4c71a30c/d.sock
+[NX Daemon Server] - 2025-07-28T12:50:12.448Z - [WATCHER]: Subscribed to changes within: /Users/pieterjoubert/sortd/ng2-dragula (native)
+[NX Daemon Server] - 2025-07-28T12:50:12.456Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-07-28T12:50:12.456Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-07-28T12:50:12.456Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-07-28T12:50:12.457Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-07-28T12:50:12.457Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-07-28T12:50:12.457Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-07-28T12:50:12.459Z - [WATCHER]: Stopping the watcher for /Users/pieterjoubert/sortd/ng2-dragula (sources)
+[NX Daemon Server] - 2025-07-28T12:50:12.459Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-07-28T12:50:12.459Z - [WATCHER]: Stopping the watcher for /Users/pieterjoubert/sortd/ng2-dragula (outputs)
